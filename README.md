@@ -1,5 +1,5 @@
 # Dataset 
-This project uses the dataset of "Cambridge Police Department crash" to apply key information design concepts, demonstrate the function and best form of data visualization. There are 11 variables with 10,335 records in the dataset.
+This project uses the dataset of "Cambridge Police Department crash" to apply key information design concepts, demonstrate the function and best form of data visualization. There are 11 variables with 10,335 records in the dataset. The dashboards and charts are made in TABLEAU and QLIK SENSE
 
 # Steps to execution
 1.	Define your questions: we will be defining each problem in the next page of the document with an explanation.
